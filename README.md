@@ -11,6 +11,3 @@ For help getting started with React, view our
 [online documentation](https://reactjs.org/docs/getting-started.html), which offers tutorials, samples and guidance.
 
 ## screenshots
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
