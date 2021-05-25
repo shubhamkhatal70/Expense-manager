@@ -11,3 +11,11 @@ For help getting started with React, view our
 [online documentation](https://reactjs.org/docs/getting-started.html), which offers tutorials, samples and guidance.
 
 ## screenshots
+
+1st screenshot
+
+<img src="images/prev1.JPG" width="800">
+
+2nd screenshot
+
+<img src="images/prev1.JPG" width="800">
